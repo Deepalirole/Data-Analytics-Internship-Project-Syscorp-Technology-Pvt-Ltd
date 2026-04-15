@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/01_Excel_Analytics"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/02_SQL_Database"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/03_Python_Analysis"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/04_Data_Visualization"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/05_Capstone_Project"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/config"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/data"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/docs"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/scripts"
+		},
+		{
+			"path": "../CascadeProjects/windsurf-project/Deepu-Analytics-System/tests"
+		}
+	],
+	"settings": {}
+}
